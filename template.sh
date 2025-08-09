@@ -10,3 +10,4 @@ touch app.py
 touch research/trails.ipynb
 touch requirements.txt
 echo " Directory and files created sucessfully"
+
